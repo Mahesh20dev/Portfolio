@@ -465,6 +465,11 @@ span{
     #menu-icon{
         display: block;
     }
+    .bars{
+        display: flex;
+        flex-direction: column;
+        height: 40px;
+    }
     .navbar{
         position: absolute;
         top: 100%;
