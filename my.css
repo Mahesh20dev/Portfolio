@@ -464,9 +464,10 @@ span{
 @media screen and(max-width:768px){
     #menu-icon{
         display: block;
+        /* margin-right: 0px; */
     }
     .navbar{
-        position: fixed;
+        position: absolute;
         top: 100%;
         left: 0;
         width: 100%;
