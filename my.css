@@ -550,6 +550,16 @@ span{
     html{
         font-size: 50%;
     }
+
+    #menu-icon{
+        display: block;
+    }
+    .bars{
+        display: flex;
+        flex-direction: column;
+        height: 40px;
+    }
+    
     .contact form .input-box input{
         width: 100%;
     }
@@ -578,6 +588,14 @@ span{
         border-radius: 2rem;
         box-shadow: 0 0 1rem var(--main-color);
         margin-top: 4rem;
+    }
+    #menu-icon{
+        display: block;
+    }
+    .bars{
+        display: flex;
+        flex-direction: column;
+        height: 40px;
     }
 
     .footer{
