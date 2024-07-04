@@ -552,27 +552,11 @@ span{
 
 @media(max-width:365px){
     .home-img{
-        width:40vw ;
-        height: 40vw;
-        background-position: center;
-        background-image: url("Profile\ picture.png");
-        background-size: cover;
-        background-repeat: no-repeat;
-        border-radius: 2rem;
-        box-shadow: 0 0 1rem var(--main-color);
-        margin-top: 4rem;
+        width: 90vw;
     }
 
     .about-img{
-        width:40vw ;
-        height: 40vw;
-        background-position: center;
-        background-image: url("Profile\ picture.png");
-        background-size: cover;
-        background-repeat: no-repeat;
-        border-radius: 2rem;
-        box-shadow: 0 0 1rem var(--main-color);
-        margin-top: 4rem;
+        width: 90vw;
     }
 
     .footer{
