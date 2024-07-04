@@ -431,14 +431,14 @@ span{
 
 }
 
-@media screen and(max-width:1200px){
+@media(max-width:1200px){
     html{
         font-size: 55%;
     }
 }
 
 
-@media screen and(max-width:991px){
+@media(max-width:991px){
     .header{
         padding:2rem 3%;
     }
@@ -461,10 +461,9 @@ span{
     }
 }
 
-@media screen and(max-width:768px){
+@media (max-width:768px){
     #menu-icon{
         display: block;
-        /* margin-right: 0px; */
     }
     .navbar{
         position: absolute;
@@ -536,13 +535,13 @@ span{
     }
 }
 
-@media screen and(max-width:617px){
+@media(max-width:617px){
     .projects-container{
         grid-template-columns: 1fr;
     }
 }
 
-@media screen and(max-width:450px){
+@media(max-width:450px){
     html{
         font-size: 50%;
     }
@@ -551,29 +550,13 @@ span{
     }
 }
 
-@media screen and(max-width:365px){
+@media(max-width:365px){
     .home-img{
-        width:40vw ;
-        height: 40vw;
-        background-position: center;
-        background-image: url("Profile\ picture.png");
-        background-size: cover;
-        background-repeat: no-repeat;
-        border-radius: 2rem;
-        box-shadow: 0 0 1rem var(--main-color);
-        margin-top: 4rem;
+        width: 90vw;
     }
 
     .about-img{
-        width:40vw ;
-        height: 40vw;
-        background-position: center;
-        background-image: url("Profile\ picture.png");
-        background-size: cover;
-        background-repeat: no-repeat;
-        border-radius: 2rem;
-        box-shadow: 0 0 1rem var(--main-color);
-        margin-top: 4rem;
+        width: 90vw;
     }
 
     .footer{
@@ -585,6 +568,7 @@ span{
         margin-top: 2rem;
     }
 }
+
 
 
 
