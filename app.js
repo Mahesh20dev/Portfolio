@@ -10,34 +10,18 @@ menuIcon.onclick=()=>{
 
 let sections=document.querySelectorAll('section');
 let navlinks=document.querySelectorAll('header nav a');
-       /**
- * Calculate the scroll position and section properties.
- *
- * @returns {void}
- */
+       
 window.onscroll = () => {
-    // Loop through each section element
+    
     sections.forEach(sec => {
-        // Get the current scroll position
+       
         let top = window.scrollY;
-
-        // Calculate the offset from the top of the page to the section
         let offset = sec.offsetTop - 150;
-
-        // Get the height of the section
         let height = sec.offsetHeight;
-
-        // Get the id of the section
         let id = sec.getAttribute('id');
-
-        // Check if the scroll position is within the section
-        if (top >= offset && top < offset + height) {
-            // Loop through each navigation link
-            navlinks.forEach(link => {
-                // Remove the 'active' class from all links
+        if (top >= offset && top < offset + height) {         
+            navlinks.forEach(link => {              
                 link.classList.remove('active');
-
-                // Add the 'active' class to the link that corresponds to the current section
                 document.querySelector('header nav a[href*=' + id + ']').classList.add('active');
             })
         }
