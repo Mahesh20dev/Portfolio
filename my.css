@@ -465,6 +465,9 @@ span{
     #menu-icon{
         display: block;
     }
+    section{
+        width: 100%;
+    }
     .bars{
         display: flex;
         flex-direction: column;
@@ -558,6 +561,9 @@ span{
         display: flex;
         flex-direction: column;
         height: 40px;
+    }
+    section{
+        width: 100%;
     }
     
     .contact form .input-box input{
