@@ -169,7 +169,7 @@ form.addEventListener("submit", (e) => {
     checkInputs();
     sendEmail();
     form.reset();
-    //   alert("Your message has been sent successfully");
+    
     }
   });
 
