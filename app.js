@@ -53,7 +53,7 @@ ScrollReveal().reveal('.home-content p,.about-content', { origin: 'right' });
  * Initializes Typed.js for typing effect on the home page.
  */
 const typed = new Typed('.multiple-text', {
-    strings: [ 'Full-Stack Developer'],
+    strings: [ 'Full-Stack Developer', 'Programmer'],
     typeSpeed: 100,
     backSpeed: 100,
     loop: true,
