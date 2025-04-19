@@ -2,7 +2,6 @@
 
 Welcome to my personal portfolio website! This is a fully responsive, interactive web application that showcases who I am, my technical skills, projects, and how to contact me. Built using HTML, CSS, and JavaScript with modern effects and email integration.
 
----
 
 ## 🧰 Tech Stack
 
@@ -15,9 +14,9 @@ Welcome to my personal portfolio website! This is a fully responsive, interactiv
   - [Boxicons](https://boxicons.com/) - Icon set for UI
   - Google Fonts - Custom typography
 
----
 
----
+
+
 
 ## 🔍 Features
 
@@ -30,7 +29,7 @@ Welcome to my personal portfolio website! This is a fully responsive, interactiv
 - ✅ Downloadable CV option
 - ✅ Light-themed UI with modern UX
 
----
+
 
 ## 💡 Sections
 
@@ -40,7 +39,7 @@ Welcome to my personal portfolio website! This is a fully responsive, interactiv
 - **Projects** – Interactive project cards with images and info
 - **Contact** – Fully working contact form with validation and alerts
 
----
+
 
 ## 📬 Contact Form Integration
 
@@ -49,7 +48,7 @@ Welcome to my personal portfolio website! This is a fully responsive, interactiv
 - Real-time validation for name, email, and message fields.
 - Ensure you replace the EmailJS `SecureToken` in `app.js` with your personal one to activate email sending.
 
----
+
 🚀 Live Demo
 🔗 View Live Portfolio -> https://mahesh20dev.github.io/Portfolio/
 
@@ -65,7 +64,7 @@ LinkedIn -> https://www.linkedin.com/in/maheshyc/
 
 
 
----
+
 
 Let me know if you'd like this saved as a downloadable `.md` file or added to your project folder.
 
