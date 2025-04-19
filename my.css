@@ -83,7 +83,7 @@ section{
     height: 40vw;
     animation: floatImage 4s ease-in-out infinite;
     background-position: center;
-    background-image: url("formal.jpg");
+    background-image: url("./public/formal.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 2rem;
@@ -177,7 +177,7 @@ span{
     width: 55vw ;
     height: 40vw;
     background-position: center;
-    background-image: url("Profile\ picture.png");
+    background-image: url("./public/Profile\ picture.png");
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 2rem;
@@ -510,7 +510,7 @@ span{
         width:40vw ;
         height: 40vw;
         background-position: center;
-        background-image: url("Profile\ picture.png");
+        background-image: url("./public/Profile\ picture.png");
         background-size: cover;
         background-repeat: no-repeat;
         border-radius: 2rem;
@@ -526,7 +526,7 @@ span{
         width:40vw ;
         height: 40vw;
         background-position: center;
-        background-image: url("Profile\ picture.png");
+        background-image: url("./public/Profile\ picture.png");
         background-size: cover;
         background-repeat: no-repeat;
         border-radius: 2rem;
@@ -580,7 +580,7 @@ span{
         width:40vw ;
         height: 40vw;
         background-position: center;
-        background-image: url("Profile\ picture.png");
+        background-image: url("./public/Profile\ picture.png");
         background-size: cover;
         background-repeat: no-repeat;
         border-radius: 2rem;
@@ -592,7 +592,7 @@ span{
         width:40vw ;
         height: 40vw;
         background-position: center;
-        background-image: url("Profile\ picture.png");
+        background-image: url("./public/Profile\ picture.png");
         background-size: cover;
         background-repeat: no-repeat;
         border-radius: 2rem;
